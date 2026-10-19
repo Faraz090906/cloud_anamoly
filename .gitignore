@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.pem
+*.key
+credentials*
+data/raw/*
+!data/raw/.gitkeep
+results/*.joblib
